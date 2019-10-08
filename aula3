@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+
+<div style= "background-color:#a6c1f6;
+              display:block; 
+              color:white; 
+              height:100px;
+              margin:20px; 
+              border-radius:8px; 
+              font-family:arial;
+              font-size:18px; 
+              text-align: center;
+              vertical-align: middle;">Header
+
+</div>
+
+<div style= "background-color:#eeb244;
+              display-inline:block;
+              color:white; 
+              width:29%;
+              height:30%;
+              margin:20px; 
+              border-radius:15px; 
+              font-family:arial;
+              font-size:18px;
+              line-height: 290px;
+              text-align: center;">Left Navigation
+            
+
+<div style= "background-color:#cfcfcf;
+              display-inline:block;
+              color:white;
+              width:69%;
+              height:69%;
+              margin:20px; 
+              border-radius:15px; 
+              font-family:arial;
+              font-size:18px;
+              line-height: 290px;
+              text-align: center;">Content
+            
+
+</div>
+<div style= "background-color:#8ad585;
+              display-inline:block; 
+              color:white; 
+              width:100px
+              height:300px
+              margin:20px; 
+              border-radius:8px; 
+              font-family:arial;
+              font-size:18px; 
+              text-align: center;"> Footer
+</div>
+</body>
+</html>
+
+
